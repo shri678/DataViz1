@@ -1,0 +1,101 @@
+POS,PLAYER,TEAM,RATING,Highest Rating,Team against,Date
+1,Virat Kohli,IND,871,911,England,12/07/2018
+2,Rohit Sharma,IND,855,885,Sri Lanka,06/07/2019
+3,Babar Azam,PAK,837,846,Sri Lanka,20/10/2017
+4,Ross Taylor,NZ,818,841,Bangladesh,05/06/2019
+5,Francois du Plessis,SA,790,820,Australia,06/07/2019
+6,Kane Williamson,NZ,765,799,India,09/07/2019
+7,Aaron Finch,AUS,762,798,England,25/06/2019
+8,David Warner,AUS,759,880,Pakistan,26/01/2017
+9,Quinton de Kock,SA,755,813,Sri Lanka,10/03/2019
+10,Jonny Bairstow,ENG,754,777,Australia,21/06/2018
+11,Shai Hope,WI,750,808,Bangladesh,17/05/2019
+12,Imam-ul-Haq,PAK,748,764,Bangladesh,05/07/2019
+13,Joe Root,ENG,734,824,Sri Lanka,13/10/2018
+14,Martin Guptill,NZ,711,789,South Africa,01/03/2017
+15,Shikhar Dhawan,IND,700,813,Pakistan,23/09/2018
+16,Mushfiqur Rahim,BAN,696,723,Sri Lanka,28/07/2019
+17,Jason Roy,ENG,690,782,Australia,11/07/2019
+18,Fakhar Zaman,PAK,686,768,England,11/05/2019
+19,Usman Khawaja,AUS,685,735,New Zealand,29/06/2019
+20,Eoin Morgan,ENG,668,720,Afghanistan,18/06/2019
+21,Steve Smith,AUS,663,752,Pakistan,22/01/2017
+22,Tamim Iqbal,BAN,663,737,West Indies,28/07/2018
+23,Shakib Al Hasan,BAN,663,692,Pakistan,05/07/2019
+24,Jos Buttler,ENG,655,741,Bangladesh,08/06/2019
+25,Ben Stokes,ENG,654,694,New Zealand,14/07/2019
+26,Shimron Hetmyer,WI,653,709,India,15/12/2019
+27,Glenn Maxwell,AUS,647,735,India,20/01/2016
+28,Paul Stirling,IRE,647,693,Pakistan,23/05/2013
+29,Alex Carey,AUS,628,628,England,16/09/2020
+30,David Miller,SA,626,635,New Zealand,24/03/2015
+31,Rassie van der Dussen,SA,616,639,England,04/02/2020
+32,Nicholas Pooran,WI,614,634,Ireland,12/01/2020
+33,Haris Sohail,PAK,612,618,Zimbabwe,30/10/2020
+34,Tom Latham,NZ,601,625,India,29/10/2017
+35,Lokesh Rahul,IND,596,596,New Zealand,11/02/2020
+36,Angelo Mathews,SL,588,707,England,07/12/2014
+37,Kyle Coetzer,SCO,588,647,Ireland,18/03/2018
+38,Henry Nicholls,NZ,581,592,India,11/02/2020
+39,Aqib Ilyas,OMA,578,578,United States,11/02/2020
+40,Kedar Jadhav,IND,577,629,Afghanistan,22/06/2019
+41,Litton Das,BAN,573,573,Zimbabwe,06/03/2020
+42,Brendan Taylor,ZIM,571,667,New Zealand,09/02/2012
+43,Soumya Sarkar,BAN,564,671,South Africa,15/07/2015
+44,Rahmat Shah,AFG,564,625,Sri Lanka,17/09/2018
+45,Andrew Balbirnie,IRE,564,570,Zimbabwe,01/07/2019
+46,Sean Williams,ZIM,561,561,Pakistan,03/11/2020
+47,Kusal Mendis,SL,557,631,Zimbabwe,30/06/2017
+48,Mohammad Hafeez,PAK,554,665,Bangladesh,04/03/2014
+49,Marcus Stoinis,AUS,541,616,India,08/03/2019
+50,Imad Wasim,PAK,541,556,Bangladesh,05/07/2019
+51,Evin Lewis,WI,539,546,Ireland,12/01/2020
+,Kusal Perera,SL,539,553,Bangladesh,31/07/2019
+53,Sikandar Raza,ZIM,536,576,Afghanistan,22/10/2015
+54,Mahmudullah,BAN,533,579,Afghanistan,23/09/2018
+55,Mohammad Shahzad,AFG,527,594,Bangladesh,28/09/2016
+56,Calum MacLeod,SCO,522,585,England,10/06/2018
+57,Sarfaraz Ahmed,PAK,521,581,West Indies,05/10/2016
+58,Chris Gayle,WI,520,804,Zimbabwe,30/11/2003
+59,Kevin O'Brien,IRE,516,602,Netherlands,07/07/2013
+60,Najibullah Zadran,AFG,515,518,West Indies,09/11/2019
+61,Colin de Grandhomme,NZ,515,520,Pakistan,19/01/2018
+62,Shreyas Iyer,IND,513,513,New Zealand,11/02/2020
+63,Avishka Fernando,SL,510,514,West Indies,26/02/2020
+64,Marnus Labuschagne,AUS,509,509,England,16/09/2020
+65,Shaun Marsh,AUS,503,581,South Africa,18/01/2009
+66,Jimmy Neesham,NZ,500,549,Pakistan,26/06/2019
+67,Mohammad Nabi,AFG,500,545,Bangladesh,28/09/2016
+68,Heinrich Klaasen,SA,499,499,Australia,07/03/2020
+69,Mitchell Marsh,AUS,493,641,New Zealand,06/12/2016
+70,Hashmatullah Shaidi,AFG,492,519,India,22/06/2019
+71,Hardik Pandya,IND,491,532,New Zealand,09/07/2019
+72,Peter Handscomb,AUS,490,593,Pakistan,27/03/2019
+73,Danushka Gunathilaka,SL,489,500,Pakistan,02/10/2019
+74,William Porterfield,IRE,487,539,UAE,12/03/2018
+75,Asghar Afghan,AFG,479,483,West Indies,11/11/2019
+76,Richard Berrington,SCO,478,487,United States,14/12/2019
+77,Colin Munro,NZ,476,539,Sri Lanka,05/01/2019
+78,Craig Ervine,ZIM,464,524,Afghanistan,18/10/2015
+79,Lahiru Thirimanne,SL,463,599,West Indies,04/11/2015
+80,Mitchell Santner,NZ,459,502,England,10/03/2018
+81,Thisara Perera,SL,459,509,New Zealand,08/01/2019
+82,Sabbir Rahman,BAN,457,515,Sri Lanka,19/01/2018
+83,Muhammad Usman,UAE,453,453,Namibia,09/01/2020
+84,Jason Holder,WI,449,518,Afghanistan,15/03/2018
+85,Dhananjaya de Silva,SL,443,444,Bangladesh,28/07/2019
+86,Assad Vala,PNG,443,444,Namibia,23/09/2019
+87,Aiden Markram,SA,442,459,New Zealand,19/06/2019
+88,Andile Phehlukwayo,SA,426,449,Australia,06/07/2019
+89,Mithun Ali,BAN,423,439,West Indies,13/05/2019
+90,Ravindra Jadeja,IND,419,552,West Indies,08/10/2014
+91,Gulbadin Naib,AFG,418,440,Ireland,28/02/2018
+92,Chris Woakes,ENG,417,481,Australia,26/01/2018
+93,Matthew Cross,SCO,416,427,Oman,18/08/2019
+94,Sam Billings,ENG,415,415,Australia,16/09/2020
+95,Tony Ura,PNG,415,416,Namibia,23/09/2019
+96,Rashid Khan,AFG,402,477,Ireland,10/03/2019
+97,Moeen Ali,ENG,401,522,West Indies,27/09/2017
+98,Kieron Pollard,WI,397,602,Zimbabwe,24/02/2013
+99,Dimuth Karunaratne,SL,390,397,West Indies,22/02/2020
+100,Adil Rashid,ENG,388,392,New Zealand,03/07/2019
